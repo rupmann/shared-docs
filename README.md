@@ -8,3 +8,5 @@ A central hub for sharing REDCap documentation
 <li>Create a pull request</li>
 <li>Your pull request will be reviewed and merged into the repository if there are no conflicts</li>
 </ol>
+
+For more information about forking, check out this link: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
